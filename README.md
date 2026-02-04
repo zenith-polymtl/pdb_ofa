@@ -7,6 +7,6 @@ git pull origin dev
 
 git commit -am "message"
 
-si besoin git add nom_fichier
+si besoin git add chemin du fichier
 
 git push origin dev
