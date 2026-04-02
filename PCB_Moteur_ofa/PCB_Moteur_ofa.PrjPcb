@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QSFSYCIW
 
 [Document2]
-DocumentPath=..\PCB\SCHEM_MOTEUR_PDB_OFA.SchDoc
+DocumentPath=SCHEM_MOTEUR_PDB_OFA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
